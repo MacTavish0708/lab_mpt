@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="9.3.1 -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=LABA_1_F103C8.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\LABA_1_F103C8 -TC:\CooCox\CoIDE\configuration\ProgramData\LABA_1_F103C8/arm-gcc-link.ld -g">
+      <target file="LABA_1_F103C8.elf" lastModified="1762aff8a05">
+         <source file="..\obj\stm32f10x_tim.o" lastModified="1762afeb93b"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="1761b6d3a00"/>
+         <source file="..\obj\startup_stm32f10x_md.o" lastModified="1761b6d3ad7"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="1761b6d3b72"/>
+         <source file="..\obj\main.o" lastModified="1762aff8803"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="1761b6d3d5b"/>
+         <source file="..\obj\stm32f10x_exti.o" lastModified="1761b6d3e01"/>
+         <source file="..\obj\misc.o" lastModified="1762aff4496"/>
+      </target>
+   </processor>
+</history>

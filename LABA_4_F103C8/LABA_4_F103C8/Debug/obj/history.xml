@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m3 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F103C8 -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -ID:\programki_stm\CooCox -ID:\programki_stm\CooCox\LABA_4_F103C8\stm_lib -ID:\programki_stm\CooCox\LABA_4_F103C8\stm_lib\inc -ID:\programki_stm\CooCox\LABA_4_F103C8\cmsis -ID:\programki_stm\CooCox\LABA_4_F103C8 -ID:\programki_stm\CooCox\LABA_4_F103C8\cmsis_boot">
+      <target file="stm32f10x_adc.o" lastModified="1763a3db016">
+         <source file="..\..\..\stm_lib\src\stm32f10x_adc.c" lastModified="1763a107a01"/>
+      </target>
+      <target file="syscalls.o" lastModified="1763a3db106">
+         <source file="..\..\..\syscalls\syscalls.c" lastModified="1763a3d4049"/>
+      </target>
+      <target file="stm32f10x_tim.o" lastModified="1763a3dacb7">
+         <source file="..\..\..\stm_lib\src\stm32f10x_tim.c" lastModified="1763a1073bb"/>
+      </target>
+      <target file="system_stm32f10x.o" lastModified="1763a3dad17">
+         <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="1763a0bb024"/>
+      </target>
+      <target file="main.o" lastModified="1763a98be22">
+         <source file="..\..\..\main.c" lastModified="1763a98bb32"/>
+      </target>
+      <target file="stm32f10x_gpio.o" lastModified="1763a3dadd6">
+         <source file="..\..\..\stm_lib\src\stm32f10x_gpio.c" lastModified="1763a0bd29b"/>
+      </target>
+      <target file="stm32f10x_usart.o" lastModified="1763a3db0a6">
+         <source file="..\..\..\stm_lib\src\stm32f10x_usart.c" lastModified="1763a0bf368"/>
+      </target>
+      <target file="stm32f10x_rcc.o" lastModified="1763a3daf76">
+         <source file="..\..\..\stm_lib\src\stm32f10x_rcc.c" lastModified="1763a0bc718"/>
+      </target>
+      <target file="startup_stm32f10x_md.o" lastModified="1763a3dad67">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md.c" lastModified="1763a0bafd3"/>
+      </target>
+      <target file="misc.o" lastModified="1763a3db166">
+         <source file="..\..\..\stm_lib\src\misc.c" lastModified="1763a107f7f"/>
+      </target>
+   </processor>
+</history>

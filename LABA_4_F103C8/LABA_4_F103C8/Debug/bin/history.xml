@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="9.3.1 -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=LABA_4_F103C8.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\LABA_4_F103C8 -TC:\CooCox\CoIDE\configuration\ProgramData\LABA_4_F103C8/arm-gcc-link.ld -g">
+      <target file="LABA_4_F103C8.elf" lastModified="1763a98c055">
+         <source file="..\obj\stm32f10x_tim.o" lastModified="1763a3dacb7"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="1763a3dad17"/>
+         <source file="..\obj\startup_stm32f10x_md.o" lastModified="1763a3dad67"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="1763a3dadd6"/>
+         <source file="..\obj\main.o" lastModified="1763a98be22"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="1763a3daf76"/>
+         <source file="..\obj\stm32f10x_adc.o" lastModified="1763a3db016"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="1763a3db0a6"/>
+         <source file="..\obj\syscalls.o" lastModified="1763a3db106"/>
+         <source file="..\obj\misc.o" lastModified="1763a3db166"/>
+      </target>
+   </processor>
+</history>
